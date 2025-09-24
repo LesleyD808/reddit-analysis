@@ -30,10 +30,10 @@ The analysis includes sentiment detection, network-based superuser identificatio
 ## Project Structure
 
 reddit-analysis/  
-├── Reddit_Analysis.ipynb      ← Jupyter notebook with all analysis steps  
-├── stopwordFile.txt           ← Custom stopword list for topic modeling  
-├── screenshots/               ← Saved visualizations from the notebook  
-└── README.md                  ← Project description and insights  
+├── Reddit_Analysis.ipynb      # Jupyter notebook with all analysis steps  
+├── stopwordFile.txt           # Custom stopword list for topic modeling  
+├── screenshots/               # Saved visualizations from the notebook  
+└── README.md                  # Project description and insights  
 
 ---
 
