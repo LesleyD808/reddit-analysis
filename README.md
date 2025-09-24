@@ -1,20 +1,11 @@
-# 🧠 Reddit Superuser & Topic Modeling Analysis
+# Reddit Superuser & Topic Modeling Analysis
+Reddit 超级用户与主题建模分析
 
-This project conducts an in-depth analysis of Reddit user behavior and topic dynamics using Python. It combines NLP, sentiment analysis, topic modeling, and network science to extract meaningful insights from social media data. Developed as part of a Web Science coursework at the University of Glasgow.
-
----
-
-## 📁 Project Structure
-
-reddit-analysis/  
-├── Reddit_Analysis.ipynb      ← Jupyter notebook with all analysis steps  
-├── stopwordFile.txt           ← Custom stopword list for topic modeling  
-├── screenshots/               ← Saved visualizations from the notebook  
-└── README.md                  ← Project description and insights  
+This project conducts an in-depth analysis of Reddit user behavior and topic dynamics using Python. It combines NLP, sentiment analysis, topic modeling, and network science to extract meaningful insights from social media data.
 
 ---
 
-## 🔍 Overview
+## Overview
 
 Using real-world Reddit data, this project addresses the following:
 
@@ -27,7 +18,7 @@ The analysis includes sentiment detection, network-based superuser identificatio
 
 ---
 
-## 🧰 Techniques & Tools
+## Techniques & Tools
 
 - **NLP**: `nltk`, `spaCy`, `TextBlob` for tokenization, stopwords, and sentiment  
 - **Topic Modeling**: `Gensim` LDA with `pyLDAvis` interactive visualization  
@@ -36,7 +27,17 @@ The analysis includes sentiment detection, network-based superuser identificatio
 
 ---
 
-## 🖼️ Screenshots & Results
+## Project Structure
+
+reddit-analysis/  
+├── Reddit_Analysis.ipynb      ← Jupyter notebook with all analysis steps  
+├── stopwordFile.txt           ← Custom stopword list for topic modeling  
+├── screenshots/               ← Saved visualizations from the notebook  
+└── README.md                  ← Project description and insights  
+
+---
+
+## Screenshots & Results
 
 ### 📌 User Interaction & Sentiment
 
@@ -76,14 +77,14 @@ The analysis includes sentiment detection, network-based superuser identificatio
 
 ---
 
-## 📌 Summary of Key Insights
+## Summary of Key Insights
 
 - **Sentiment** skewed positive but varied significantly across topics.
 - **Superusers** (top 5%) drove over 60% of total engagement.
 - **LDA Topic Modeling** revealed high interest in finance, tech, and markets.
 - **Interaction patterns** showed clear temporal and topical trends.
 
-## 👩‍💻 Author
+## Author
 Xinyu Dai
 
 Email: xinyudai2002.career@gmail.com
