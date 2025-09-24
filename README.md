@@ -1,4 +1,4 @@
-# Reddit Superuser & Topic Modeling Analysis
+# 🧠Reddit Superuser & Topic Modeling Analysis
 Reddit 超级用户与主题建模分析
 
 This project conducts an in-depth analysis of Reddit user behavior and topic dynamics using Python. It combines NLP, sentiment analysis, topic modeling, and network science to extract meaningful insights from social media data.
